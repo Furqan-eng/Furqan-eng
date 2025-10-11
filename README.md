@@ -10,7 +10,7 @@ Saya adalah developer yang suka belajar hal baru, khususnya di bidang web dan da
 ![Furqan-eng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furqan-eng&show_icons=true&theme=radical)
 
 ## 📫 Kontak Saya
-- Email: furqan@example.com
+- Email: fmuhammadfurqanjamaliah@gmail.com
 - LinkedIn: [Furqan LinkedIn](https://linkedin.com/in/furqan)
 
 Terima kasih sudah berkunjung ke profil saya!
