@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Welcome%20to%20Furqan's%20Profile!&fontSize=35"/>
 
-## 🦖 Dino Mini Animasi
+## 🦖 Dino Mini
 <img src="https://github.com/Furqan-eng/Furqan-eng/blob/main/assets/dino.gif" alt="Dino Mini Game" width="180"/>
 
 ---
