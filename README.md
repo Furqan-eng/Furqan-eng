@@ -1,16 +1,16 @@
-## Hi there 👋
+# Halo, Saya Furqan 👋
 
-<!--
-**Furqan-eng/Furqan-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah developer yang suka belajar hal baru, khususnya di bidang web dan data science.
 
-Here are some ideas to get you started:
+## 🔥 Proyek Unggulan
+- [groovy-folio-space](https://github.com/Furqan-eng/groovy-folio-space) - Portfolio dengan TypeScript
+- [Pykamerak](https://github.com/Furqan-eng/Pykamerak) - Kamera Python sederhana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistik GitHub
+![Furqan-eng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furqan-eng&show_icons=true&theme=radical)
+
+## 📫 Kontak Saya
+- Email: furqan@example.com
+- LinkedIn: [Furqan LinkedIn](https://linkedin.com/in/furqan)
+
+Terima kasih sudah berkunjung ke profil saya!
