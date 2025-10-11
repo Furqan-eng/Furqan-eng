@@ -1,16 +1,24 @@
-# Halo, Saya Furqan 👋
+# 👋 Halo, Saya Furqan!
 
-Saya adalah developer yang suka belajar hal baru, khususnya di bidang web dan data science.
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Welcome%20to%20Furqan's%20Profile!&fontSize=35"/>
 
-## 🔥 Proyek Unggulan
-- [groovy-folio-space](https://github.com/Furqan-eng/groovy-folio-space) - Portfolio dengan TypeScript
-- [Pykamerak](https://github.com/Furqan-eng/Pykamerak) - Kamera Python sederhana
+## 🦖 Dino Mini Animasi
+<img src="https://github.com/Furqan-eng/Furqan-eng/blob/main/assets/dino.gif" alt="Dino Mini Game" width="180"/>
+
+---
+
+## 🚀 Proyek Favorit
+- [groovy-folio-space](https://github.com/Furqan-eng/groovy-folio-space)
+- [Pykamerak](https://github.com/Furqan-eng/Pykamerak)
+- [MYPorto](https://github.com/Furqan-eng/MYPorto)
 
 ## 📊 Statistik GitHub
 ![Furqan-eng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furqan-eng&show_icons=true&theme=radical)
 
-## 📫 Kontak Saya
-- Email: fmuhammadfurqanjamaliah@gmail.com
+---
+
+## 📫 Kontak
+- Email: furqan@example.com
 - LinkedIn: [Furqan LinkedIn](https://linkedin.com/in/furqan)
 
-Terima kasih sudah berkunjung ke profil saya!
+> Terima kasih sudah mampir ke profil saya! 🎮✨
