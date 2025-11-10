@@ -1,9 +1,15 @@
 # 👋 Halo, Saya Furqan!
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Welcome%20to%20Furqan's%20Profile!&fontSize=35"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Welcome%20to%20Furqan's%20Profile!&fontSize=28&fontAlignY=40&animation=fadeIn" alt="Welcome Banner"/>
+</p>
+
+---
 
 ## 🦖 Dino Mini
-<img src="https://github.com/Furqan-eng/Furqan-eng/blob/main/assets/dino.gif" alt="Dino Mini Game" width="180"/>
+<p align="center">
+  <img src="https://github.com/Furqan-eng/Furqan-eng/blob/main/assets/dino.gif" alt="Dino Mini Game" width="140"/>
+</p>
 
 ---
 
@@ -12,13 +18,21 @@
 - [Pykamerak](https://github.com/Furqan-eng/Pykamerak)
 - [MYPorto](https://github.com/Furqan-eng/MYPorto)
 
+---
+
 ## 📊 Statistik GitHub
-![Furqan-eng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furqan-eng&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Furqan-eng&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="Furqan GitHub Stats"/>
+</p>
 
 ---
 
 ## 📫 Kontak
-- Email: furqan@example.com
-- LinkedIn: [Furqan LinkedIn](https://linkedin.com/in/furqan)
+- ✉️ Email: muhammadfurqanhusen@gmail.com
+- 💼 Wats'up : 082386184094
 
-> Terima kasih sudah mampir ke profil saya! 🎮✨
+---
+
+<p align="center">
+  <i>Terima kasih sudah mampir ke profil saya! 🎮✨</i>
+</p>
