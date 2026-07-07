@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://path.to/your/lofi_coding_illustration.gif" alt="Lofi Coding Animation" width="600px"/>
+  <img src="https://tenor.com/id/view/pixel-jeff-divoom-pixel-art-relax-gif-6453849843770164511" alt="Lofi Coding Animation" width="600px"/>
 </div>
 
 ---
