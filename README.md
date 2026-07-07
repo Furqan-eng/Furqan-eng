@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRwanFwMW5rM3psNnl2aGo5NmcyYXpyNndpamk1OGZ0N2k0OHJ1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif](https://i.gifer.com/WMd.gif)" alt="Lofi Coding Animation" width="600px"/>
+  <img src="https://i.gifer.com/WMd.gif" alt="Lofi Coding Animation" width="600px"/>
 </div>
 
 ---
