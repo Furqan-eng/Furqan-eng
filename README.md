@@ -1,39 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Furqan!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=62" />
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Modern+%26+Clean+UIs;Python,+PHP,+%26+Node.js;AI+%26+Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
+  <h1>Hi, I'm Furqan 👋</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A3BE8C&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Media+Enthusiast;Cybersecurity+Learner;Active+Committing..." alt="Typing SVG" /></a>
 </div>
+
+<hr />
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <!-- KOLOM KIRI: TEMPAT ANIMASI (GIF) -->
+      <td width="50%" align="center" valign="middle">
+        <pre align="left"><code>$ Fetching visual assets... DONE</code></pre>
+        <!-- GANTI URL DI BAWAH INI DENGAN LINK GIF ANIMASIMU -->
+        <!-- GitHub hanya mendukung animasi dalam format .gif atau .svg -->
+        <img src="https://raw.githubusercontent.com/kyeotic/kyeotic/main/terminal.gif" width="90%" alt="Animasi Terminal/Foto" style="border: 2px solid #4c566a; border-radius: 8px;"/>
+        <br>
+        <code>[STREAMING_PHOTO_LOG_01] running...</code>
+      </td>
+      
+      <!-- KOLOM KANAN: STATS & NEOFETCH -->
+      <td width="50%" valign="top">
+        <pre align="left">
+<code>
+<b><span style="color:#a3be8c;">furqan@github:~$</span> neofetch --profile</b>
+<span style="color:#81a1c1;">Name:</span>       Furqan
+<span style="color:#81a1c1;">Role:</span>       Full-stack Dev & Student
+<span style="color:#81a1c1;">Location:</span>   Bireuen, Aceh, Indonesia
+<span style="color:#81a1c1;">Org:</span>        ISMA (Ikatan Santri Makmur)
+<span style="color:#81a1c1;">Focus:</span>      Web Dev, AI Media, CyberSec
+<span style="color:#81a1c1;">FrontEnd:</span>   Bootstrap 5, AdminLTE v4
+<span style="color:#81a1c1;">BackEnd:</span>    Python (Flask), PHP, Node.js
+<span style="color:#81a1c1;">Database:</span>   MySQL
+<span style="color:#81a1c1;">Infra:</span>      MikroTik, Tailscale, ngrok
+<span style="color:#81a1c1;">Learning:</span>   TryHackMe
+</code>
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr/>
+
+### 🚀 Highlighted Projects
+- **ISMA Web Portal & Financial System** - Web platform built for Ikatan Santri Makmur.
+- **Clinic Patient Management** - Desktop GUI (Tkinter/Python) with MySQL integration and PDF data export capabilities.
+- **AI Video-to-Prompt Generator** - Web app using OpenCV to extract frames and generate hyper-realistic cinematic JSON prompts.
+- **Alumni Information System** - Clean, three-table architecture managing profiles and employment history (Flask & MySQL).
+- **"Halo Komputer" Voice Assistant** - Python-based local assistant utilizing pyttsx3.
+- **PHPNuxBill UI Modernization** - Redesigned dashboard implementing Dark Mode and AdminLTE customizations.
+- **The Thread of Being** - Cinematic short film project utilizing structured surrealist prompts.
 
 <br>
 
 <div align="center">
-  <img src="https://i.gifer.com/WMd.gif" alt="Lofi Coding Animation" width="600px"/>
+  <!-- Ganti "YOUR_GITHUB_USERNAME" di bawah ini dengan username GitHub kamu yang sebenarnya -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
----
-
-### 👨‍💻 Tentang Saya
-
-Saya berfokus pada pengembangan aplikasi *full-stack*, modernisasi antarmuka sistem agar lebih responsif dan elegan, serta pengelolaan basis data relasional.
-
-*   🔭 Saat ini sedang membangun dan menyempurnakan berbagai aplikasi web serta mengintegrasikan fitur modern seperti *dark mode* pada *dashboard* sistem.
-*   🌱 Terus bereksplorasi di bidang konfigurasi jaringan dan keamanan siber.
-*   🤖 Sangat tertarik dengan generasi media berbasis *Artificial Intelligence* dan rekayasa *prompt*.
-*   📫 Cara menghubungi saya: **[Tambahkan Email / Tautan LinkedIn Anda di sini]**
-
-### 🛠️ Tech Stack & Peralatan
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,nodejs,mysql,flask,bootstrap,html,css,js,linux&theme=dark" />
-  </a>
-</div>
-
-### 📊 Statistik GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Furqan-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistik GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Furqan-eng&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
----
