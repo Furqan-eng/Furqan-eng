@@ -1,79 +1,120 @@
-<div align="center">
-  <!-- GIF Pixel Art Orang Ngoding -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Pixel Art Coding" />
+# Hi there, I'm Furqan! ðŸ‘‹
 
-  # Hi there, I'm [Furqan]! 👋
+## ðŸš€ Full Stack Developer | Mobile App Enthusiast
 
-  <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;AI+%26+Prompt+Engineering;Cybersecurity+Enthusiast" alt="Typing SVG" />
-  </a>
-  
-  <p align="center">
-    Building clean interfaces, modernizing systems, and constantly experimenting with cutting-edge tech.
-  </p>
-
-  <!-- Social Badges -->
-  <a href="https://linkedin.com/in/[Your LinkedIn Username]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/[Your Instagram Username]">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://[Your Portfolio/Website URL]">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br>
+I'm a passionate developer who loves building robust applications across multiple platforms. Currently focused on creating efficient backend systems and beautiful mobile experiences.
 
 ---
 
-### 👨‍💻 About Me
+## ðŸ› ï¸ Tech Stack
 
-- 🔭 **Currently working on:** Full-Stack Web Development, focusing on scalable management systems and modern UI/UX.
-- 🌱 **Currently learning:** Advanced Cybersecurity (TryHackMe), Networking, and AI-driven applications.
-- 💡 **Interests:** Visual reverse-engineering, Prompt Engineering, and building network automation tools.
-- ⚡ **Fun fact:** When I'm away from the keyboard, I'm usually experimenting with internet marketing strategies.
-- 📍 **Based in:** Aceh, Indonesia 🇮🇩
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🛠️ Tech Stack & Tools
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
-
-<br>
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🚀 GitHub Analytics & Achievements
+## ðŸ“Š GitHub Stats
 
-<!-- 1. Classic Base Metrics with Isometric Calendar (lowlighter/metrics) -->
-<div align="center">
-  <img src="https://metrics.lecoq.io/[Your GitHub Username]?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&config_timezone=Asia%2FJakarta" alt="Metrics Base & Calendar" width="100%" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqan-eng&show_icons=true&theme=radical)
 
-<br>
-
-<!-- 2. Coding Habits & GitHub Achievements -->
-<div align="center">
-  <img src="https://metrics.lecoq.io/[Your GitHub Username]?template=classic&base=&plugin_habits=yes&plugin_habits_charts=yes&plugin_habits_days=14&plugin_habits_facts=yes&plugin_habits_from=200&config_timezone=Asia%2FJakarta" alt="Metrics Habits" width="49%" />
-  <img src="https://metrics.lecoq.io/[Your GitHub Username]?template=classic&base=&plugin_achievements=yes&plugin_achievements_display=detailed&plugin_achievements_secrets=yes&plugin_achievements_threshold=C" alt="Metrics Achievements" width="49%" />
-</div>
-
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-eng&layout=compact&theme=radical)
 
 ---
+
+## ðŸ† GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=furqan-eng&theme=radical)
+
+---
+
+## ðŸŽ¯ Featured Projects
+
+### ðŸ”¹ Web Applications
+- **[Project Name]** - Brief description of your web application
+- **[Project Name]** - Brief description of your web application
+- **[Project Name]** - Brief description of your web application
+
+### ðŸ“± Mobile Apps
+- **[Project Name]** - Brief description of your mobile app
+- **[Project Name]** - Brief description of your mobile app
+- **[Project Name]** - Brief description of your mobile app
+
+---
+
+## ðŸ’¡ What I'm Currently Working On
+
+- ðŸ”­ I'm currently working on...
+- ðŸŒ± I'm currently learning...
+- ðŸ‘¯ I'm looking to collaborate on...
+- ðŸ¤” I'm looking for help with...
+- ðŸ’¬ Ask me about...
+- ðŸ“« How to reach me...
+- ðŸ˜„ Pronouns: ...
+- âš¡ Fun fact: ...
+
+---
+
+## ðŸ“« Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+## ðŸ Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furqan-eng&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## ðŸ’– Support My Work
+
+If you find my work helpful, consider supporting me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-username)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/your-username)
+
+---
+
+## ðŸ“ˆ Contribution Stats
+
+![GitHub contributions](https://github-readme-stats.vercel.app/api?username=furqan-eng&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+---
+
 <div align="center">
-  <i>Crafted with 💻 and ☕ by [Your Name]</i>
+
+### â­ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=furqan-eng&type=Date)](https://star-history.com/#furqan-eng&Date)
+
+</div>
+
+---
+
+<div align="center">
+
+**Thank you for visiting my profile! Have a great day! ðŸŒŸ**
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=furqan-eng%2Ffurqan-eng&countColor=%2337d67a&style=flat)
+
 </div>
