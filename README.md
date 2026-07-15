@@ -2,7 +2,7 @@
   <!-- GIF Pixel Art Orang Ngoding -->
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Pixel Art Coding" />
 
-  # Hi there, I'm [Nama Kamu]! 👋
+  # Hi there, I'm [Furqan]! 👋
 
   <!-- Animasi Teks Berjalan -->
   <a href="https://git.io/typing-svg">
