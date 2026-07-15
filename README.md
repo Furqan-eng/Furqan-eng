@@ -84,20 +84,10 @@ I'm a passionate developer who loves building robust applications across multipl
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqan-eng&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
-
-    </td>
-    <td valign="top" width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-eng&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
-
-    </td>
-  </tr>
-</table>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=furqan-eng&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-eng&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="49%" />
+</div>
 
 ---
 
@@ -146,18 +136,32 @@ I'm a passionate developer who loves building robust applications across multipl
 ## 🎯 Featured Projects
 
 ### Web Applications
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Project Name]** | Brief description | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
-| **[Project Name]** | Brief description | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) |
-| **[Project Name]** | Brief description | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) |
+
+**[Project Name]**
+Brief description of your web application
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**[Project Name]**
+Brief description of your web application
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+**[Project Name]**
+Brief description of your web application
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ### Mobile Apps
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Project Name]** | Brief description | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
-| **[Project Name]** | Brief description | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) |
-| **[Project Name]** | Brief description | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) |
+
+**[Project Name]**
+Brief description of your mobile app
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+**[Project Name]**
+Brief description of your mobile app
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**[Project Name]**
+Brief description of your mobile app
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 ---
 
