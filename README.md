@@ -1,6 +1,6 @@
 <!-- Header dengan animasi ketikan (opsional, pakai layanan readme-typing-svg) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Halo,+saya+[Nama+Anda];Full-stack+Developer;UI/UX+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hai,+my name is+Furqan;Full-stack+Developer;UI/UX+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <!-- GIF Pixel Art Orang Ngoding -->
